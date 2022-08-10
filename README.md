@@ -1,5 +1,5 @@
 ### Hello 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Keerthi-Vibisan-S.Keerthi-Vibisan-S)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SUJEETH-KRR.SUJEETH-KRR)
 
 
 <!--
