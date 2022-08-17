@@ -1,5 +1,6 @@
 ### Hello 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SUJEETH-KRR.SUJEETH-KRR)
+<br />
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SUJEETH-KRR&theme=highcontrast&show_icons=true&count_private=true)
 
 
