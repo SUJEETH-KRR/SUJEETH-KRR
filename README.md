@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://www.vhv.rs/dpng/d/574-5748769_c-logo-png-transparent-c-programming-language-logo.png" alt="c" width="40" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw0oCevjO8ycs5gstLPibZ80&ust=1672892282506000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjXncSHrfwCFQAAAAAdAAAAABAJ" alt="c" width="40" height="40" style="vertical-align:top; margin:4px">
+<img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="c" width="40" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
