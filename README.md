@@ -7,7 +7,7 @@
 
 ## 🧰 About Me:
 <div>
-        - 🌱 I’m currently learning cloud computing <br/>
+        - 🌱 I’m currently learning Node / Express js <br/>
         - 👯 I’m looking to collaborate on Interesting Projects <br/>
         - 🤝 I’m looking for help with <br/>
         - 📫 To reach me sujeeth.ct20@bitsathy.ac.in <br/>
