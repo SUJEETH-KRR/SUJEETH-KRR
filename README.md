@@ -7,9 +7,8 @@
 
 ## 🧰 About Me:
 <div>
-        - 🌱 I’m currently learning AWS and Azure cloud services <br/>
-        - 👯 I’m looking to collaborate on Interesting Projects <br/>
-        - 🤝 I’m looking for help with <br/>
+        - 🌱 I’m currently learning AWS and Azure cloud services. <br/>
+        - 👯 I’m looking to collaborate on Interesting Projects. <br/>
         - 📫 To reach me sujeethkrr@gmail.com <br/>
         - ⚡ Fun fact I like to play and watch cricket 🏏 and listening songs 🎧 <br/>
 </div>
